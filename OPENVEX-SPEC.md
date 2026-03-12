@@ -48,7 +48,7 @@ tracking system. `status` is one of the impact status labels defined by VEX
 Another key part of VEX is time. It matters _when_ statements are made. VEX is
 designed to be a sequence of statements, each overriding, but also enriching 
 the previous ones with new information. Each statement has a timestamp
-associated with it, either exlicitly in the markup or derived from containint
+associated with it, either explicitly in the markup or derived from containing
 structures (see [Inheritance Flow](#Inheritance Flow)).
 
 ## VEX Documents
